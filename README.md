@@ -1,2 +1,2 @@
 # thinksell.jp
-THINKSELL Official SIte
+THINKSELL Official Site

@@ -1,2 +1,1 @@
-# thinksell.jp
-THINKSELL Official Site
+# 自己紹介
